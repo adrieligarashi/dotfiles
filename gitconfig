@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = adriel.igarashi@gmail.com
+	name = Adriel Igarashi
